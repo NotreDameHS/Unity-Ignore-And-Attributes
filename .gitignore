@@ -73,3 +73,6 @@ crashlytics-build.properties
 
 # PixelPerfect Samples
 **/[Ll]ibrary/PackageCache/*
+
+# .DS_Store db file
+**/.DS_Store
